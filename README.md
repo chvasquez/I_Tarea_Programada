@@ -6,4 +6,4 @@ I Tarea Programada - C
 Integrantes:
 
 - Edgar Solorzano Pacheco
-- Christofer Vasquez
+- Christopher Vasquez
