@@ -1,8 +1,9 @@
-Instituto Tecnológico de Costa Rica
-Lenguajes de Programación
+Instituto Tecnolï¿½gico de Costa Rica
+Lenguajes de Programaciï¿½n
 
 I Tarea Programada - C
+
 Integrantes:
 
-Edgar Solórzano Pacheco
-Christofer Vasquez
+- Edgar Solï¿½rzano Pacheco
+- Christofer Vasquez
