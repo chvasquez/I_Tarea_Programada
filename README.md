@@ -1,9 +1,9 @@
-Instituto Tecnol�gico de Costa Rica
-Lenguajes de Programaci�n
+Instituto Tecnologico de Costa Rica
+Lenguajes de Programacion
 
 I Tarea Programada - C
 
 Integrantes:
 
-- Edgar Sol�rzano Pacheco
+- Edgar Solorzano Pacheco
 - Christofer Vasquez
